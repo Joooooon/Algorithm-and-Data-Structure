@@ -22,6 +22,12 @@
     > - Pivot rule 2 : Final Element
     > - Pivot rule 3 : Median-Of-Three
     >
+  - Compute minimum cut (Karger Minimum Cut)
+    >
+    >Input : 200 vertices, 2517 edges
+    >
+    >Implementation of Karger Minimum cut Algorithm
+    >
 - Personal Projects
   - ClosePreference(modified merge-sort algorithm) 
   - MyShortestPath
